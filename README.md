@@ -1,6 +1,6 @@
  # Hi 👋 I'm Rajesh Kumar Mahto
 
-🎓 3rd Year Computer Science Student  
+🎓 Final Year Computer Science Student  
 💻 Aspiring Software Developer  
 
 ---
