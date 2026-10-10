@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://github.com/rajeshk35447-eng">GitHub</a>
   ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rajesh-kumar-mahto-42b0a2319/">LinkedIn</a>
   ·
-  <a href="mailto:YOUR_EMAIL_ADDRESS">Email</a>
+  <a href="rajeshk35447@gmail.com">Email</a>
 </p>
 
 ---
@@ -87,9 +87,9 @@ Explore my repositories for more software development and Python projects.
 
 I'm interested in collaborating on useful software projects, learning from other developers, and exploring opportunities in software development and AI.
 
-- **GitHub:** [@rajeshk35447-eng](https://github.com/rajeshk35447-eng)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rajesh-kumar-mahto-42b0a2319/)
-- **Email:** [Get in touch](rajeshk35447@gmail.com)
+- **GitHub:** [@rajeshk35447-eng]("https://github.com/rajeshk35447-eng")
+- **LinkedIn:** [Connect with me]("https://www.linkedin.com/in/rajesh-kumar-mahto-42b0a2319/")
+- **Email:** [Get in touch]("rajeshk35447@gmail.com")
 
 <p align="center">
   <i>Learning every day. Building one project at a time. 🚀</i>
