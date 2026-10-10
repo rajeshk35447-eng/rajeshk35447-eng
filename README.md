@@ -1,4 +1,6 @@
-# Rajesh Kumar Mahto · Python Developer & AI/ML Enthusiast 🚀
+# Rajesh Kumar Mahto
+
+· Python Developer & AI/ML Enthusiast 🚀
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer"/>
@@ -86,8 +88,8 @@ Explore my repositories for more software development and Python projects.
 I'm interested in collaborating on useful software projects, learning from other developers, and exploring opportunities in software development and AI.
 
 - **GitHub:** [@rajeshk35447-eng](https://github.com/rajeshk35447-eng)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **Email:** [Get in touch](mailto:YOUR_EMAIL_ADDRESS)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rajesh-kumar-mahto-42b0a2319/)
+- **Email:** [Get in touch](rajeshk35447@gmail.com)
 
 <p align="center">
   <i>Learning every day. Building one project at a time. 🚀</i>
